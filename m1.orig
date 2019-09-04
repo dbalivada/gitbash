@@ -6,8 +6,10 @@ fifth line
 sixth line
 eight line
 seventh line
-<<<<<<< HEAD
 local line
-=======
 remote line1
->>>>>>> c0594ded1c563b8e68e7eb9131e53210e5997353
+<<<<<<< HEAD
+local line2
+=======
+remote line2
+>>>>>>> 597f1ac92f472248ec2dcf3cc7dbc8bcf254c7b2
