@@ -4,5 +4,9 @@ third line
 fourth line
 fifth line
 sixth line
+<<<<<<< HEAD
 eight line
+
+=======
 seventh line
+>>>>>>> 01a7029196bb572f28b9fef506544895722f24b9
