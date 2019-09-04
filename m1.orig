@@ -8,7 +8,8 @@ eight line
 seventh line
 local line
 remote line1
+<<<<<<< HEAD
+local line2
+=======
 remote line2
-remote line3
-remote line4
-remote line 5
+>>>>>>> 597f1ac92f472248ec2dcf3cc7dbc8bcf254c7b2

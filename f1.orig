@@ -1,8 +1,8 @@
 feature 1st line
 feature second line
 third line
- feature4
+<<<<<<< HEAD
 cherry-pick line
+=======
 fetch line
-second line
-
+>>>>>>> 52eb705cbb0fbaf76b80ed4f309783d922435e10
