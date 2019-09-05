@@ -5,10 +5,11 @@ third line
 cherry-pick line
 fetch line
 second line
-<<<<<<< HEAD
 reset line
 reset line
 reset line3
+revert line1
+<<<<<<< HEAD
+revert line2
 =======
-
->>>>>>> parent of 817e115... reset
+>>>>>>> d7347b0... revert1
