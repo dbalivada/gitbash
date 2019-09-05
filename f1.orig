@@ -1,8 +1,14 @@
 feature 1st line
 feature second line
 third line
-<<<<<<< HEAD
+ feature4
 cherry-pick line
-=======
 fetch line
->>>>>>> 52eb705cbb0fbaf76b80ed4f309783d922435e10
+second line
+<<<<<<< HEAD
+reset line
+reset line
+reset line3
+=======
+
+>>>>>>> parent of 817e115... reset
